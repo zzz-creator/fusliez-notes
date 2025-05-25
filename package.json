@@ -5,7 +5,7 @@
   "description": "A companion notes app for Among Us social deduction game. Lets you track of your thoughts and your winning record, and includes a notepad and maps.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Kedyn/fusliez-notes.git"
+    "url": "https://github.com/zzz-creator/fusliez-notes.git"
   },
   "main": ".webpack/main",
   "scripts": {
@@ -25,10 +25,10 @@
     "test-watch": "npm run test -- --watch",
     "test-coverage": "npm run test -- --coverage --watchAll=false"
   },
-  "homepage": "http://kedyn.github.io/fusliez-notes",
+  "homepage": "https://zzz-creator.github.io/fusliez-notes/",
   "author": {
-    "name": "Kedyn Macedonio",
-    "email": "mkedyn@gmail.com"
+    "name": "Keefe Au",
+    "email": "mr.keefe.au@gmail.com"
   },
   "license": "MIT",
   "config": {
