@@ -32,8 +32,6 @@ jobs:
 
       - name: Build React app
         run: npm run build
-        env:
-          NODE_OPTIONS: --openssl-legacy-provider
       - name: Upload static site
         uses: actions/upload-pages-artifact@v3
         with:
