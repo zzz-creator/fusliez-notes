@@ -72,7 +72,7 @@ export default function About(): JSX.Element {
       <p className={classes.AboutOutro}>
         -{" "}
         <a
-          href="https://github.com/Kedyn"
+          href="https://github.com/zzz-creator/"
           target="_blank"
           rel="noopener noreferrer"
         >
