@@ -25,7 +25,7 @@ export const NOTES = [
       <>
         If you would like to see all the changes we have made please read our{" "}
         <a
-          href="https://github.com/Kedyn/fusliez-notes/blob/master/CHANGELOG.md"
+          href="https://github.com/zzz-creator/fusliez-notes/blob/master/CHANGELOG.md"
           target="_blank"
           rel="noopener noreferrer"
         >
