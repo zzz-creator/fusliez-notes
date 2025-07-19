@@ -3,6 +3,13 @@ import "utils/i18n";
 import App from "components/App";
 import React from "react";
 import ReactDOM from "react-dom";
+import TagManager from "react-gtm-module";
+
+const tagManagerArgs = {
+  gtmId: "GTM-TQS2Q2SS",
+};
+
+TagManager.initialize(tagManagerArgs);
 
 ReactDOM.render(<App />, document.getElementById("root"));
 

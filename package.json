@@ -41,7 +41,7 @@
           "name": "@electron-forge/maker-squirrel",
           "config": {
             "name": "fusliez-notes",
-            "iconUrl": "https://kedyn.github.io/fusliez-notes/favicon.ico",
+            "iconUrl": "https://zzz-creator.github.io/fusliez-notes/favicon.ico",
             "setupIcon": "./src/assets/images/app/favicon.ico",
             "noMsi": "false"
           }
@@ -90,6 +90,7 @@
     "react-circular-progressbar": "^2.0.3",
     "react-color": "^2.18.1",
     "react-dom": "^16.13.1",
+    "react-gtm-module": "^2.0.11",
     "react-i18next": "^11.7.3",
     "react-jss": "^10.4.0",
     "react-redux": "^7.2.1",
@@ -121,6 +122,7 @@
     "@types/react": "^16.9.49",
     "@types/react-color": "^3.0.4",
     "@types/react-dom": "^16.9.8",
+    "@types/react-gtm-module": "^2.0.4",
     "@types/react-redux": "^7.1.9",
     "@types/redux-mock-store": "^1.0.2",
     "@types/sortablejs": "^1.10.6",

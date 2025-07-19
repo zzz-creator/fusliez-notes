@@ -81,7 +81,7 @@ export default function DesktopLayout(): JSX.Element {
         </Trans>{" "}
         |{" "}
         <a
-          href="https://github.com/Kedyn/fusliez-notes"
+          href="https://github.com/zzz-creator/fusliez-notes"
           target="_blank"
           rel="noopener noreferrer"
         >
