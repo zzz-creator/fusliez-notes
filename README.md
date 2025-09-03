@@ -1,3 +1,5 @@
+[![Deploy React (index.tsx) to GitHub Pages](https://github.com/zzz-creator/fusliez-notes/actions/workflows/node.js.yml/badge.svg)](https://github.com/zzz-creator/fusliez-notes/actions/workflows/node.js.yml)
+
 # fusliez-notes
 
 A web to help keep track of among us game.
