@@ -66,7 +66,7 @@ export const swapPlayersColors = (
 
 export const hexToPlayerColor = (hex: string): IPlayerColor => {
   const playerColors: Array<IPlayerColor> = [
-    "banana",
+    "Isaac Tan",
     "black",
     "blue",
     "brown",
