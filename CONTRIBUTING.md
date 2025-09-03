@@ -13,7 +13,7 @@ to propose changes to this document in a pull request.
 
 This project and everyone participating in it is governed by the [Code of Conduct](CODE_OF_CONDUCT.md).
 By participating, you are expected to uphold this code.
-Please report unacceptable behavior to mkedyn@gmail.com.
+Please report unacceptable behavior to mr.keefe.au@gmail.com.
 
 ## Suggestions and bug reports
 
