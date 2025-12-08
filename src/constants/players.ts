@@ -94,13 +94,13 @@ export const DEFAULT_PLAYERS_STATE: IPlayersState = {
     usedEmergencyButton: false,
   },
   tan: {
-    name: "Isaac Tan",
+    name: "",
     color: "tan",
     section: DEFAULT_RESET_SECTION,
     usedEmergencyButton: false,
   },
   white: {
-    name: "Nathan Siu Hei Kwok",
+    name: "",
     color: "white",
     section: DEFAULT_RESET_SECTION,
     usedEmergencyButton: false,
