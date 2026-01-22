@@ -16,8 +16,10 @@ export type IPlayerColor =
   | "purple"
   | "red"
   | "rose"
+  | "silver"
   | "tan"
   | "white"
+  | "gold"
   | "yellow";
 
 export interface IPlayer {
@@ -43,8 +45,10 @@ export interface IPlayersState {
   purple: IPlayer;
   red: IPlayer;
   rose: IPlayer;
+  silver: IPlayer;
   tan: IPlayer;
   white: IPlayer;
+  gold: IPlayer;
   yellow: IPlayer;
 }
 

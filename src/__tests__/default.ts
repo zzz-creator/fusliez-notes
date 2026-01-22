@@ -91,6 +91,12 @@ export const players: IPlayersState = {
     section: 4,
     usedEmergencyButton: false,
   },
+  silver: {
+    name: "",
+    color: "silver" as IPlayerColor,
+    section: 4,
+    usedEmergencyButton: false,
+  },
   tan: {
     name: "",
     color: "tan" as IPlayerColor,
@@ -100,6 +106,12 @@ export const players: IPlayersState = {
   white: {
     name: "",
     color: "white" as IPlayerColor,
+    section: 4,
+    usedEmergencyButton: false,
+  },
+  gold: {
+    name: "",
+    color: "gold" as IPlayerColor,
     section: 4,
     usedEmergencyButton: false,
   },
