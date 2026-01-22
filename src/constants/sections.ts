@@ -21,10 +21,8 @@ export const DEFAULT_RESET_SECTION_PLAYERS: Array<ItemInterface> = [
   { id: "purple" },
   { id: "red" },
   { id: "rose" },
-  { id: "silver" },
   { id: "tan" },
   { id: "white" },
-  { id: "gold" },
   { id: "yellow" },
 ];
 

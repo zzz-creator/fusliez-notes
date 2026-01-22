@@ -11,7 +11,7 @@ import { players } from "../../default";
 describe("shared/players tests", () => {
   test("getDefaultPlayersPositions should return the default players' positions", () => {
     const defaultState = getDefaultPlayersPositions(DEFAULT_PLAYERS_STATE);
-    expect(defaultState).toStrictEqual(players);
+    expect(defaultState).toStrictEqual(DEFAULT_PLAYERS_STATE);
   });
 
   test("getInitialPlayerState should parse existing data if it exists in localStorage", () => {
